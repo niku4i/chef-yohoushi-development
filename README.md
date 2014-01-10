@@ -1,0 +1,1 @@
+chef-yohoushiの動作確認するためのChefリポジトリ
