@@ -1,0 +1,62 @@
+{
+  "sources": {
+    "mysql": {
+      "locked_version": "4.0.18"
+    },
+    "rbenv": {
+      "locked_version": "1.7.1",
+      "git": "git://github.com/RiotGames/rbenv-cookbook.git",
+      "ref": "00e50cb62f9ec4d825c6c516256bc381c7fa2e61"
+    },
+    "yohoushi": {
+      "locked_version": "0.0.1",
+      "git": "git@github.com:yohoushi/chef-yohoushi.git",
+      "ref": "ee0953727e67c10e7f774e3a27c747b230f17fe6"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "git": {
+      "locked_version": "2.9.0"
+    },
+    "dmg": {
+      "locked_version": "2.1.2"
+    },
+    "windows": {
+      "locked_version": "1.12.6"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "runit": {
+      "locked_version": "1.5.8"
+    },
+    "yum": {
+      "locked_version": "3.0.4"
+    },
+    "yum-epel": {
+      "locked_version": "0.2.0"
+    },
+    "apt": {
+      "locked_version": "2.3.4"
+    },
+    "ohai": {
+      "locked_version": "1.1.12"
+    },
+    "database": {
+      "locked_version": "1.6.0"
+    },
+    "postgresql": {
+      "locked_version": "3.3.4"
+    },
+    "aws": {
+      "locked_version": "1.0.0"
+    },
+    "xfs": {
+      "locked_version": "1.1.0"
+    }
+  }
+}
